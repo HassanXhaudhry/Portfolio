@@ -36,7 +36,6 @@ const Navbar = () => {
         <a className="nav-link" href="#">contacts</a>
       </li>
     </ul>
-   
   </div>
   </div>
 </nav>
