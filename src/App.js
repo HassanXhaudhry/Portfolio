@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from './componenst/Navbar';
+import './App.css'
 
 const App = () => {
   return (
-    <div>HI Portfolio</div>
+    <Fragment>
+    <Navbar />
+    </Fragment>
   )
 }
 
